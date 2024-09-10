@@ -7,7 +7,7 @@ Social Media
 - [Facebook](https://facebook.com)
 
 
-> Musical
+> Musicals
 
 ![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl_dxMXUHRDcUh_BCKBWfbwvS5y7PULHLELm8vvViazaXCuvaR)
 
@@ -22,5 +22,3 @@ Social Media
 | The Thunder Saga |
 | The Wisdom Saga |
 
-[[[[<iframe style="border-radius:12" src="https://open.spotify.com/embed/album/5IaGIT4jt1J2JAXrOBPPck?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>](https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck?si=WO6aQidXSG6UPvENidzdgw)]](https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck?si=G5O1C-IuR0aPe3Yn7WpasA)](https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck?si=-kBi9J5BSjea_xfTWtH_9w)
-> Wisdom Saga
