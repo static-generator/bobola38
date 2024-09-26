@@ -21,3 +21,7 @@ Social Media
 | The Underworld Saga | Monster |
 | The Thunder Saga | Suffering |
 | The Wisdom Saga | We'll be Fine |
+
+
+https://www.youtube.com/watch?v=_N15ek-uTl0
+> Warrior of the Mind
