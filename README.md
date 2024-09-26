@@ -30,6 +30,6 @@ Social Media
 [![https://static.wikia.nocookie.net/epicthemusical/images/5/5c/Cyclops_Saga2.png/revision/latest?cb=20240703223238](https://img.youtube.com/vi/e8EVxeDTx2E/0.jpg)](https://www.youtube.com/watch?v=e8EVxeDTx2E)
 > My Goodbye
 
-
-![](https://www.youtube.com/watch?v=skVSbITX4kY)
+[![https://t2.genius.com/unsafe/795x0/https%3A%2F%2Fimages.genius.com%2F18fedf38c7a912cdaffe9f6bca1a910d.1000x1000x1.png](https://img.youtube.com/vi/skVSbITX4kY/0.jpg)](https://www.youtube.com/watch?v=skVSbITX4kY)
+>Ruthlessness
 
