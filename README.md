@@ -22,4 +22,4 @@ Social Media
 | The Thunder Saga |
 | The Wisdom Saga |
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+https://open.spotify.com/album/6SxVoqHzmrFnPno9DWedMj?si=G-cvFovETgqzLhgpy-DNWg
