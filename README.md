@@ -31,5 +31,5 @@ Social Media
 > My Goodbye
 
 
-[![https://static.wikia.nocookie.net/epicthemusical/images/5/5c/Cyclops_Saga2.png/revision/latest?cb=20240703223238](https://curtaincallbway.com/wp-content/uploads/2023/12/the_ocean_saga.jpg?w=1000&h=768&crop=1)](https://img.youtube.com/vi/eskVSbITX4kY/0.jpg)](https://www.youtube.com/watch?v=eskVSbITX4kY)
+[![](https://img.youtube.com/vi/eskVSbITX4kY/0.jpg)]
 
