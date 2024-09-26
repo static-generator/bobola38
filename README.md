@@ -30,4 +30,6 @@ Social Media
 [![https://static.wikia.nocookie.net/epicthemusical/images/5/5c/Cyclops_Saga2.png/revision/latest?cb=20240703223238](https://img.youtube.com/vi/e8EVxeDTx2E/0.jpg)](https://www.youtube.com/watch?v=e8EVxeDTx2E)
 > My Goodbye
 
-[![[https://static.wikia.nocookie.net/epicthemusical/images/5/5c/Cyclops_Saga2.png/revision/latest?cb=20240703223238](https://static.wikia.nocookie.net/epicthemusical/images/3/34/The_ocean_saga.jpg/revision/latest?cb=20231225132527)(https://img.youtube.com/vi/skVSbITX4kY/0.jpg)(https://www.youtube.com/watch?v=eskVSbITX4kY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skVSbITX4kY?si=b_ZvKTi8a4u50P5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+eskVSbITX4kY
