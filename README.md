@@ -31,5 +31,5 @@ Social Media
 > My Goodbye
 
 
-[![](https://img.youtube.com/vi/eskVSbITX4kY/0.jpg)]
+![](https://www.youtube.com/watch?v=skVSbITX4kY)
 
