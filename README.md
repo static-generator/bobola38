@@ -23,5 +23,9 @@ Social Media
 | The Wisdom Saga | We'll be Fine |
 
 
+
 [![https://static.wikia.nocookie.net/epicthemusical/images/b/b2/Troy_Saga2.png/revision/latest/scale-to-width-down/1000?cb=20240703223744](https://img.youtube.com/vi/_N15ek-uTl0/0.jpg)](https://www.youtube.com/watch?v=_N15ek-uTl0)
 > Warrior of the Mind
+
+[![https://static.wikia.nocookie.net/epicthemusical/images/5/5c/Cyclops_Saga2.png/revision/latest?cb=20240703223238](https://img.youtube.com/vi/e8EVxeDTx2E/0.jpg)](https://www.youtube.com/watch?v=e8EVxeDTx2E)
+> My Goodbye
