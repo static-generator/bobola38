@@ -12,13 +12,12 @@ Social Media
 ![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl_dxMXUHRDcUh_BCKBWfbwvS5y7PULHLELm8vvViazaXCuvaR)
 
 
-| Epic: The Musical Released Sagas |
-| ----------- |
-| The Troy Saga |
-| The Cyclops Saga |
-| The Ocean Saga |
-| The Circe Saga |
-| The Underworld Saga |
-| The Thunder Saga |
-| The Wisdom Saga |
-
+| Epic: The Musical Released Sagas | Best Songs |
+| ----------- | ----------- |
+| The Troy Saga | Warrior of the Mind |
+| The Cyclops Saga | My Goodbye |
+| The Ocean Saga | Ruthlessness |
+| The Circe Saga | Done For |
+| The Underworld Saga | Monster |
+| The Thunder Saga | Suffering |
+| The Wisdom Saga | We'll be Fine |
