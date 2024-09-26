@@ -23,9 +23,9 @@ Social Media
 | The Wisdom Saga |
 
 <div class="embed-spotify-song"> 
-  <iframe src="https://open.spotify.com/embed/album/6SxVoqHzmrFnPno9DWedMj?" 
+  <iframe src="https://open.spotify.com/embed/album/6SxVoqHzmrFnPno9DWedMj" 
   frameborder="0" 
-        allowtransparency="true" 
-        allow="encrypted-media">
+  allowtransparency="true" 
+  allow="encrypted-media">
     </iframe>
 </div>
