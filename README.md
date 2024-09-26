@@ -33,7 +33,7 @@ My Hyperfixations
 [![https://t2.genius.com/unsafe/795x0/https%3A%2F%2Fimages.genius.com%2F18fedf38c7a912cdaffe9f6bca1a910d.1000x1000x1.png](https://img.youtube.com/vi/skVSbITX4kY/0.jpg)](https://www.youtube.com/watch?v=skVSbITX4kY)
 > Ruthlessness
 
-[![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09FWNuv7kZbrrMGFfKZ1jyplnaNhMSCq08EmQ3f7nozQiRQxyH4KY&usqp=CAE&s](https://img.youtube.com/vi/tso8nSWnENM&t=8s/0.jpg)](https://www.youtube.com/watch?v=tso8nSWnENM&t=8s)
+[![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09FWNuv7kZbrrMGFfKZ1jyplnaNhMSCq08EmQ3f7nozQiRQxyH4KY&usqp=CAE&s](https://img.youtube.com/vi/fnvKBq_4FuY/0.jpg)](https://www.youtube.com/watch?v=fnvKBq_4FuY)
 > Puppeteer
 
 
