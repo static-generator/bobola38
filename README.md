@@ -23,5 +23,5 @@ Social Media
 | The Wisdom Saga | We'll be Fine |
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=_N15ek-uTl0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_N15ek-uTl0/0.jpg)](https://www.youtube.com/watch?v=_N15ek-uTl0)
 > Warrior of the Mind
